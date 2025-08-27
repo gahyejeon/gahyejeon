@@ -22,7 +22,7 @@
 ---------
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeungEEE&show_icons=true&theme=dracula" width="400" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=gahyejeon&show_icons=true&theme=dracula" width="400" height="150">
   <a href="https://github.com/devxb/gitanimals">
   </a>
 </div>
