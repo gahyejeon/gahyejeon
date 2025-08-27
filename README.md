@@ -1,5 +1,5 @@
 
-## Hi, I'm gahye
+## Hi, I'm gahye, jeon
 
 <h3 align="left">📚 Languages & Frameworks </h3>
 <div align="left">
